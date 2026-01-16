@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>BCA Semester 2</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>BCA Semester 2</h1>
+    <p>Select Subject</p>
+</header>
+
+<section class="container">
+    <div class="grid">
+        <a href="subject-Oops using java.html" class="card">Oops using java</a>
+        <a href="subject-Data structures.html" class="card">Data structures</a>
+        <a href="subject-Operating system.html" class="card">Operating system</a>
+    </div>
+</section>
+
+<footer>
+    <p><a href="index.html">← Back to Home</a></p>
+</footer>
+
+</body>
+</html>
